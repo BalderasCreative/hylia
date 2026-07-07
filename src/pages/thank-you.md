@@ -1,6 +1,5 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Gimme A Sec.
+permalink: /thank-you/index.html
 ---
-
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Thank you for reaching out! I'll try to get back to you as fast as possible! Not too fast, though. That'd be weird. Hold tight.
