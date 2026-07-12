@@ -7,4 +7,4 @@ postsHeading: Latest Rants
 archiveButtonText: See all posts
 socialImage: ""
 ---
-H﻿ey! Welcome to the blog. Think of this is as the atrium of a very fancy building and beyond it are gonna be lots of rooms. Some serious rooms. Some weird rooms. Some, I hope, funny rooms. Look around, maybe there will be a spooky room too.
+H﻿ey! Welcome to the blog. Think of this as the atrium of a very fancy building and beyond it are gonna be lots of rooms. Some serious rooms. Some weird rooms. Some, I hope, funny rooms. Look around, maybe there will be a spooky room too. *No bathrooms, though.*
