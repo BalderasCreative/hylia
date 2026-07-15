@@ -1,28 +1,19 @@
 ---
-title: A simple post
-date: '2019-06-18'
+title: Web Log 01
+date: 2026-07-15T06:08:57.283Z
 tags:
-  - demo-content
+  - content
   - simple-post
   - blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+I﻿ don't believe in coincidences.
 
-How about a `<blockquote>`?
+That's not to say I believe in destiny. But, I don't believe in coincidences.
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+A﻿nd I know our brains are wired to find patterns but maybe they're wired that way for a reason. The near-fractals in snowflakes. I know we're only a blip on the radar of time and space but the mere fact that things don't just stop existing out of nowhere makes me believe there is some type of order to our lives, or at least our existence.
 
-A list of stuff:
+I﻿'ve told people that I feel lucky to have lived the life I have so far because it's fulfilled some of my own personal dreams in one way or another. 
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+T﻿he fact that some of the worst times of my life lead to some of the best is cosmic irony at its finest. Someone will attribute to having "nowhere to go but up" but it doesn't track when I analyze life from that angle.
 
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+W﻿ether it be a strike or a downturn in business, I have this uncanny ability to try and insert myself somewhere right as the ship is starting to lose momentum. But maybe it has to slow down for me to hop aboard.
